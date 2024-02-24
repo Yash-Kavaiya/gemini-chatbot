@@ -40,9 +40,7 @@ A conversational AI chatbot powered by Google's Gemini Pro language model, built
    streamlit run app.py 
    ```
    * Replace 'app.py' with the actual name of your main Python file.
-
 2. **Access in Your Browser:** The chatbot will open in your web browser, typically at http://localhost:8501.
-
 ### **Notes**
 
 * The `chat_message` component provided in a previous version has been replaced with Streamlit's native support. For further customization, explore Streamlit's documentation on custom components.
