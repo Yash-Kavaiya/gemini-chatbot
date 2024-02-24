@@ -1,4 +1,4 @@
-## Gemini Pro Chatbot**
+## Gemini Pro Chatbot
 
 A conversational AI chatbot powered by Google's Gemini Pro language model, built with Streamlit and Google's GenerativeAI API.
 
